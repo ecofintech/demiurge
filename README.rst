@@ -7,7 +7,7 @@
 .. raw:: html
 
    <br class="title">
-   Helix Eye v3 beta
+   Nebula Eye v3 beta
    <br>
 
 .. image:: https://img.shields.io/badge/python-3.6-blue.svg
@@ -45,7 +45,7 @@ Ideas, bug reports, contributions are welcome !**
 =============
 Overview
 =============
-*Jok3r* is a Python3 CLI application which is aimed at **helping penetration testers 
+*Nebula Eye* is a Python3 CLI application which is aimed at **helping penetration testers 
 for network infrastructure and web black-box security tests**. 
 
 The goal is to save as much time as possible during network/web pentests by automating as 
