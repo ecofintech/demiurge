@@ -28,7 +28,7 @@
 .. raw:: html
 
    </h1>
-   <h3 align="center">Network & Web Pentest Automation Framework. Forked from Jok3r original framework for integration in Blackhole-OS environment. Aimed to provide a own audited code with usability improvements and tailored for Arm based Network Security Devices.</h3>
+   <h3 align="center">Network & Web Pentest Automation Framework. Forked from Jok3r original framework for integration in NSMDs Network Security and Monitoring Devices. Aimed to provide a own audited code with usability improvements, fixed scan errors and tailored for arm based processors (Nvidia Jetson Nano boards).</h3>
    <p align="center"><a href="https://www.jok3r-framework.com/">www.jok3r-framework.com</a></p>
 
 **WARNING: Project is still in version 3 BETA. It is still under active development 
@@ -54,12 +54,24 @@ then spend more time on more interesting and tricky stuff !
 
 It is based upon the observation that there are many hacking open-source tools/scripts  (from various sources)
 targeting common network services available out there, that allow to perform various tasks from
-fingerprinting to exploitation. Therefore, the idea of *Jok3r* is to combine those open-source tools 
+fingerprinting to exploitation. Therefore, the idea of *Nebula Eye (original name Jok3r)* is to combine those open-source tools 
 in a smart way to get the more relevant results.
+
+*Nebula Eye* fork added features to the original are:
+
+- Tailored for Nvidia Jetson Nano boards.
+- Refined installation requeriments.
+- Removed Docker trash.
+- Fixed common attack errors due to toolbox dependencies.
+- New usability improvements. (to do) 
+- New report template.
+
+
+Note: The full version of this fork is hosted in a private Gitlab repository.
 
 
 =============
-Features
+Original Features
 =============
 
 Pentest Toolbox management
