@@ -2,12 +2,12 @@
 
    <h1 align="center">
 
-.. image:: ./pictures/logo.png
+.. image:: ./pictures/logo-demiurge.jpeg
 
 .. raw:: html
 
    <br class="title">
-   Jok3r v3 beta
+   Demiurge v3 beta
    <br>
 
 .. image:: https://img.shields.io/badge/python-3.6-blue.svg
@@ -28,7 +28,7 @@
 .. raw:: html
 
    </h1>
-   <h3 align="center">Network & Web Pentest Automation Framework</h3>
+   <h3 align="center">Network & Web Pentest Automation Framework. Forked from Jok3r original framework for Blackhole suite, aimed to provide a own audited code with usability improvements and tailored for Arm based Network Security Devices.</h3>
    <p align="center"><a href="https://www.jok3r-framework.com/">www.jok3r-framework.com</a></p>
 
 **WARNING: Project is still in version 3 BETA. It is still under active development 
