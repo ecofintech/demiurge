@@ -7,5 +7,5 @@
 # Shodan: https://www.shodan.io/
 API_KEYS = {
 	'vulners': '',
-	'shodan': '',
+	'shodan': 'SGuR0TGv7hvO7DOxOALtD7EJWsu79NJv',
 }

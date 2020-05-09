@@ -65,9 +65,17 @@ class DbController(cmd2.Cmd):
 
         # Delete useless cmd2 built-in commands
         del cmd2.Cmd.do_edit
-        del cmd2.Cmd.do_load
+        try:
+            del cmd2.Cmd.do_load
+        except:
+            pass
+        
         del cmd2.Cmd.do_py
-        del cmd2.Cmd.do_pyscript
+        try:
+            del cmd2.Cmd.do_pyscript
+        except:
+            pass
+        
         #del cmd2.Cmd.do_set 
         del cmd2.Cmd.do_shortcuts
 

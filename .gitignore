@@ -30,3 +30,8 @@ apikeys.py
 
 # Junk files
 shodan
+
+#reports
+reports/*
+
+
