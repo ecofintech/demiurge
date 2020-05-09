@@ -7,7 +7,7 @@
 .. raw:: html
 
    <br class="title">
-   Nebula Eye v3 beta
+   NebulaHole v3 beta
    <br>
 
 .. image:: https://img.shields.io/badge/python-3.6-blue.svg
@@ -45,7 +45,7 @@ Ideas, bug reports, contributions are welcome !**
 =============
 Overview
 =============
-*Nebula Eye* is a Python3 CLI application which is aimed at **helping penetration testers 
+*NebulaHole* is a Python3 CLI application which is aimed at **helping penetration testers 
 for network infrastructure and web black-box security tests**. 
 
 The goal is to save as much time as possible during network/web pentests by automating as 
@@ -54,10 +54,10 @@ then spend more time on more interesting and tricky stuff !
 
 It is based upon the observation that there are many hacking open-source tools/scripts  (from various sources)
 targeting common network services available out there, that allow to perform various tasks from
-fingerprinting to exploitation. Therefore, the idea of *Nebula Eye (original name Jok3r)* is to combine those open-source tools 
+fingerprinting to exploitation. Therefore, the idea of *NebulaHole (original name Jok3r)* is to combine those open-source tools 
 in a smart way to get the more relevant results.
 
-*Nebula Eye* fork added features to the original are:
+*NebulaHole* fork added features to the original are:
 
 - Tailored for Nvidia Jetson Nano boards.
 - Refined installation requeriments.
@@ -67,7 +67,9 @@ in a smart way to get the more relevant results.
 - New report template.
 
 
-Note: The full version of this fork is hosted in a private Gitlab repository.
+Note: The full version of this fork is hosted in a private Gitlab repository. If you are interested in professional pentesting and cybersecurity services, contact us.
+
+
 
 
 =============
