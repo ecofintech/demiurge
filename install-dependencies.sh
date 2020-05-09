@@ -195,6 +195,15 @@ else
 fi
 print_delimiter
 
+#------------------------------------------------------------------------------
+#Add http-bigip-cookie 
+#for solving issue: 
+#NSE: failed to initialize the script engine:
+#/usr/bin/../share/nmap/nse_main.lua:821: 'http-bigip-cookie' did not match a category, filename, or directory
+
+curl https://raw.githubusercontent.com/nmap/nmap/master/scripts/http-bigip-cookie.nse > /usr/share/nmap/scripts/http-bigip-cookie.nse
+
+
 # -----------------------------------------------------------------------------
 # Install Tcpdump
 
