@@ -7,7 +7,7 @@
 .. raw:: html
 
    <br class="title">
-   NebulaHole v3 beta
+   Nebula Eye v3 beta
    <br>
 
 .. image:: https://img.shields.io/badge/python-3.6-blue.svg
@@ -54,10 +54,10 @@ then spend more time on more interesting and tricky stuff !
 
 It is based upon the observation that there are many hacking open-source tools/scripts  (from various sources)
 targeting common network services available out there, that allow to perform various tasks from
-fingerprinting to exploitation. Therefore, the idea of *NebulaHole (original name Jok3r)* is to combine those open-source tools 
+fingerprinting to exploitation. Therefore, the idea of *Nebula Eye (original name Jok3r)* is to combine those open-source tools 
 in a smart way to get the more relevant results.
 
-*NebulaHole* fork added features to the original are:
+*Nebula Eye* fork added features to the original are:
 
 - Tailored for Nvidia Jetson Nano boards.
 - Refined installation requeriments.
