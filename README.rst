@@ -9,7 +9,6 @@
    <br class="title">
    Eye of God v3 beta
    <br>
-image: Helix Nebula NGC 7293 "Eye of God"
 
 .. image:: https://img.shields.io/badge/python-3.6-blue.svg
     :target: https://www.python.org/downloads/release/python-366/
@@ -43,9 +42,13 @@ Ideas, bug reports, contributions are welcome !**
     :local:
     :depth: 1
 
+image: Helix Nebula NGC 7293 "Eye of God"
+
+
 =============
 Overview
 =============
+
 *Eye of God* is a Python3 CLI application which is aimed at **helping penetration testers 
 for network infrastructure and web black-box security tests**. 
 
