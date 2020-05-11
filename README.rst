@@ -9,6 +9,7 @@
    <br class="title">
    Eye of God v3 beta
    <br>
+image: Helix Nebula NGC 7293 "Eye of God"
 
 .. image:: https://img.shields.io/badge/python-3.6-blue.svg
     :target: https://www.python.org/downloads/release/python-366/
