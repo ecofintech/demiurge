@@ -1716,7 +1716,7 @@ class DbController(cmd2.Cmd):
         formatter_class=formatter_class)
     report.add_argument(
         '--no-screen',
-        action = 'store_true',
+        action = 'store_false',
         help   = 'Disable not take web page screenshots')
     report.add_argument(
         'path', 
