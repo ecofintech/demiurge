@@ -7,7 +7,7 @@
 .. raw:: html
 
    <br class="title">
-   Nebula Eye v3 beta
+   Eye of God v3 beta
    <br>
 
 .. image:: https://img.shields.io/badge/python-3.6-blue.svg
@@ -45,7 +45,7 @@ Ideas, bug reports, contributions are welcome !**
 =============
 Overview
 =============
-*NebulaHole* is a Python3 CLI application which is aimed at **helping penetration testers 
+*Eye of God* is a Python3 CLI application which is aimed at **helping penetration testers 
 for network infrastructure and web black-box security tests**. 
 
 The goal is to save as much time as possible during network/web pentests by automating as 
@@ -54,10 +54,9 @@ then spend more time on more interesting and tricky stuff !
 
 It is based upon the observation that there are many hacking open-source tools/scripts  (from various sources)
 targeting common network services available out there, that allow to perform various tasks from
-fingerprinting to exploitation. Therefore, the idea of *Nebula Eye (original name Jok3r)* is to combine those open-source tools 
-in a smart way to get the more relevant results.
+fingerprinting to exploitation. Therefore, the idea of *Eye of God (original name Jok3r)* is to combine those open-source tools in a smart way to get the more relevant results in Nvidia Jetson Nano boards.
 
-*Nebula Eye* fork added features to the original are:
+*Eye of God* fork added features to the original are:
 
 - Tailored for Nvidia Jetson Nano boards.
 - Refined installation requeriments.
